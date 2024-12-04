@@ -1,0 +1,18 @@
+module flappyBird
+typeinfo appflappyBird.qmltypes
+prefer :/flappyBird/
+Main 1.0 Main.qml
+CButton 1.0 CButton.qml
+Bird 1.0 Bird.qml
+CNumber 1.0 CNumber.qml
+GameScreen 1.0 GameScreen.qml
+BackAnimation 1.0 BackAnimation.qml
+HomeScreen 1.0 HomeScreen.qml
+Pipe 1.0 Pipe.qml
+PauseScreen 1.0 PauseScreen.qml
+TemplateButton 1.0 TemplateButton.qml
+ReadyScreen 1.0 ReadyScreen.qml
+GameOverScreen 1.0 GameOverScreen.qml
+BoardText 1.0 BoardText.qml
+SoundManager 1.0 SoundManager.qml
+

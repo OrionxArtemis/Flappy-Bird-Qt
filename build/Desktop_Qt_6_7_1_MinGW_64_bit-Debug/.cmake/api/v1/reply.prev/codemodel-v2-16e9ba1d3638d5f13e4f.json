@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7e7c622ec6f54e7dc2ef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f8110a4a8ec89de94c0f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-543180a9d06d7c6ac1f0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-ae0c939d6888db35331d.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d6744dd4ee4f231d5af3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird-Debug-365312e86e5bf6c65ff8.json",
+					"name" : "appflappyBird",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_autogen-Debug-860ce67ccbff6db1eb5e.json",
+					"name" : "appflappyBird_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_autogen_timestamp_deps-Debug-cdb29c02c9a3f12c03cc.json",
+					"name" : "appflappyBird_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_qmlimportscan-Debug-5d6022d0f28ae434d3dd.json",
+					"name" : "appflappyBird_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_qmllint-Debug-7b6f51533ee565e9f871.json",
+					"name" : "appflappyBird_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_qmllint_json-Debug-2efa1980d14d1fb14581.json",
+					"name" : "appflappyBird_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_qmllint_module-Debug-39e869c55f088fc3ebb1.json",
+					"name" : "appflappyBird_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_qmltyperegistration-Debug-14b1a435ebb2bc5040bc.json",
+					"name" : "appflappyBird_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appflappyBird_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appflappyBird_tooling-Debug-4d0368c8109bb9ddd4df.json",
+					"name" : "appflappyBird_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/untitled"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

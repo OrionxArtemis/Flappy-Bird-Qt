@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/flappyBird">
+    <file alias="qmldir">D:/Qt/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/flappyBird/qmldir</file>
+  </qresource>
+</RCC>
+
