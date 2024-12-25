@@ -19,6 +19,7 @@ qt_add_qml_module(appFlappyBird
     QML_FILES
         Main.qml
         SOURCES backend.h backend.cpp
+        SOURCES FontManager.h FontManager.cpp
         QML_FILES CButton.qml
         QML_FILES Bird.qml
         QML_FILES CNumber.qml

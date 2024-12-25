@@ -28,11 +28,13 @@ Backend::Backend(QObject *parent) : QObject(parent)
 void Backend::addPoint() {
     QString point = "1";
     setPoint(point);
+    qDebug("%s::%d::%s: Added 1 point", __FILE__, __LINE__, __FUNCTION__);
 }
 
 void Backend::setPoint(QString& point) {
     this->m_point++;
     emit pointChanged();
+    qDebug("%s::%d::%s: Set point successfully", __FILE__, __LINE__, __FUNCTION__);
 }
 
 QString Backend::getPoint() const {
@@ -43,11 +45,13 @@ QString Backend::getPoint() const {
 void Backend::resetPoint() {
     this->m_point = 0;
     emit pointChanged();
+    qDebug("%s::%d::%s: Reset point successfully", __FILE__, __LINE__, __FUNCTION__);
 }
 
 void Backend::saveBestScore(const QVariant &value) {
     QSettings settings("FlappyBird", "BestScore");
     settings.setValue("bestScore", value);
+    qDebug("%s::%d::%s: Saved best score successfully", __FILE__, __LINE__, __FUNCTION__);
 }
 
 QVariant Backend::getBestScore() {
