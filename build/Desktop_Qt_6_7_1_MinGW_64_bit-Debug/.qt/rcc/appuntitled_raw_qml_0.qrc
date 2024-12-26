@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="/untitled/">
+    <file alias="Main.qml">D:/Qt/untitled/Main.qml</file>
+    <file alias="CButton.qml">D:/Qt/untitled/CButton.qml</file>
+    <file alias="Bird.qml">D:/Qt/untitled/Bird.qml</file>
+    <file alias="CNumber.qml">D:/Qt/untitled/CNumber.qml</file>
+    <file alias="GameScreen.qml">D:/Qt/untitled/GameScreen.qml</file>
+    <file alias="BackAnimation.qml">D:/Qt/untitled/BackAnimation.qml</file>
+    <file alias="HomeScreen.qml">D:/Qt/untitled/HomeScreen.qml</file>
+    <file alias="Pipe.qml">D:/Qt/untitled/Pipe.qml</file>
+    <file alias="PauseScreen.qml">D:/Qt/untitled/PauseScreen.qml</file>
+    <file alias="TemplateButton.qml">D:/Qt/untitled/TemplateButton.qml</file>
+    <file alias="ReadyScreen.qml">D:/Qt/untitled/ReadyScreen.qml</file>
+    <file alias="GameOverScreen.qml">D:/Qt/untitled/GameOverScreen.qml</file>
+    <file alias="BoardText.qml">D:/Qt/untitled/BoardText.qml</file>
+    <file alias="SoundManager.qml">D:/Qt/untitled/SoundManager.qml</file>
+    <file alias="Image/Flappy_Bird_icon.png">D:/Qt/untitled/Image/Flappy_Bird_icon.png</file>
+    <file alias="Image/bird_move_1.png">D:/Qt/untitled/Image/bird_move_1.png</file>
+    <file alias="Image/bird_move_2.png">D:/Qt/untitled/Image/bird_move_2.png</file>
+    <file alias="Image/bird_move_3.png">D:/Qt/untitled/Image/bird_move_3.png</file>
+    <file alias="Image/base.png">D:/Qt/untitled/Image/base.png</file>
+    <file alias="Image/background.png">D:/Qt/untitled/Image/background.png</file>
+    <file alias="Image/title.png">D:/Qt/untitled/Image/title.png</file>
+    <file alias="Image/startButton.png">D:/Qt/untitled/Image/startButton.png</file>
+    <file alias="Image/pauseButton.png">D:/Qt/untitled/Image/pauseButton.png</file>
+    <file alias="Image/continueButton.png">D:/Qt/untitled/Image/continueButton.png</file>
+    <file alias="Image/GameOver.png">D:/Qt/untitled/Image/GameOver.png</file>
+    <file alias="Image/GetReady.png">D:/Qt/untitled/Image/GetReady.png</file>
+    <file alias="Image/templateButton.png">D:/Qt/untitled/Image/templateButton.png</file>
+    <file alias="Image/squareButton.png">D:/Qt/untitled/Image/squareButton.png</file>
+    <file alias="Image/mute.png">D:/Qt/untitled/Image/mute.png</file>
+    <file alias="Image/unmute.png">D:/Qt/untitled/Image/unmute.png</file>
+    <file alias="Image/instruction.png">D:/Qt/untitled/Image/instruction.png</file>
+    <file alias="Image/scoreboard.png">D:/Qt/untitled/Image/scoreboard.png</file>
+    <file alias="sound/sfx_die.wav">D:/Qt/untitled/sound/sfx_die.wav</file>
+    <file alias="sound/sfx_hit.wav">D:/Qt/untitled/sound/sfx_hit.wav</file>
+    <file alias="sound/sfx_point.wav">D:/Qt/untitled/sound/sfx_point.wav</file>
+    <file alias="sound/sfx_swooshing.wav">D:/Qt/untitled/sound/sfx_swooshing.wav</file>
+    <file alias="sound/sfx_wing.wav">D:/Qt/untitled/sound/sfx_wing.wav</file>
+  </qresource>
+</RCC>
+
